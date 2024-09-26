@@ -1,7 +1,7 @@
 import { create } from "zustand";   //For global state management
 import axios from "axios";
 
-const API_URL = import.meta.env.MODE === "production" ? "http://localhost:5000/api/auth" : "/api/auth";
+const API_URL = import.meta.env.MODE === "development" ? "http://localhost:5000/api/auth" : "/api/auth";
 
 axios.defaults.withCredentials = true;
 
