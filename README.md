@@ -1,7 +1,3 @@
-Perfect! Here’s an updated version of the README that includes your deployment on Render — still keeping that tone where you're honest about learning from a tutorial but highlighting your hands-on effort and customizations:
-
----
-
 # 🔐 MERN Advanced Auth – Multifactor Authentication System
 
 Hey! 👋
